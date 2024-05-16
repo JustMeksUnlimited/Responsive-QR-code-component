@@ -23,8 +23,8 @@ This is a solution of th Responsive QR code component challenge done by me, Njok
 
 ### Links
 
-- Solution URL: [https://github.com/JustMeks-Unlimited/Responsive-QR-code-component](https://github.com/JustMeks-Unlimited/Responsive-QR-code-component)
-- Live Site URL: [https://justmeks-unlimited.github.io/Responsive-QR-code-component/](https://justmeks-unlimited.github.io/Responsive-QR-code-component/)
+- Solution URL: [https://github.com/JustMeksUnlimited/Responsive-QR-code-component](https://github.com/JustMeks-Unlimited/Responsive-QR-code-component)
+- Live Site URL: [https://justmeksunlimited.github.io/Responsive-QR-code-component/](https://justmeks-unlimited.github.io/Responsive-QR-code-component/)
 
 ## My process
 -Firstly, I set up my project with Git,
